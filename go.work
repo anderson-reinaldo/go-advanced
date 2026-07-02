@@ -6,5 +6,6 @@ use (
 	"./2 - slices-arrays-ponteiros/2.3-deep-copy"
 	"./2 - slices-arrays-ponteiros/2.4-ponteiros"
 	"./2 - slices-arrays-ponteiros/2.5-deep-copy-com-ponteiros"
+	"./2 - slices-arrays-ponteiros/2.6-map-filter-reduce"
 	./1-hello-word
 )
