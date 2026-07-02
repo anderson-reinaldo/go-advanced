@@ -1,0 +1,10 @@
+go 1.26.3
+
+use (
+	"./2 - slices-arrays-ponteiros/2.1-introducao"
+	"./2 - slices-arrays-ponteiros/2.2-copia-simples"
+	"./2 - slices-arrays-ponteiros/2.3-deep-copy"
+	"./2 - slices-arrays-ponteiros/2.4-ponteiros"
+	"./2 - slices-arrays-ponteiros/2.5-deep-copy-com-ponteiros"
+	./1-hello-word
+)
