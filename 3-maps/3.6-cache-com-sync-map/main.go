@@ -8,7 +8,6 @@ import (
 
 type Cache struct {
 	dados sync.Map
-	mu    sync.Mutex
 }
 
 func NewCache() *Cache {
@@ -16,23 +15,12 @@ func NewCache() *Cache {
 }
 
 func (c *Cache) Set(chave string, valor any) {
-	c.mu.Lock()
-	defer c.mu.Unlock()
-
 	c.dados.Store(chave, valor)
 	fmt.Printf("Valor %x armazenado no cache com a chave %s\n", valor, chave)
 }
 
 func (c *Cache) Get(chave string) (any, bool) {
-	c.mu.Lock()
-	defer c.mu.Unlock()
-
-	valor, ok := c.dados.Load(chave)
-	if ok {
-		return valor, true
-	} else {
-		return nil, false
-	}
+	return c.dados.Load(chave)
 }
 
 func main() {
