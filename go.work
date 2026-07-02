@@ -14,4 +14,7 @@ use (
 	./3-maps/3.4-sync-map
 	./3-maps/3.5-cache-com-mutex
 	./3-maps/3.6-cache-com-sync-map
+	./4-channels/4.1-introducao
+	./4-channels/4.2-channels-com-buffer
+	./4-channels/4.3-direcoes
 )
