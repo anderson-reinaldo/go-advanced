@@ -35,7 +35,6 @@ func main() {
 	}, 0)
 
 	fmt.Println("Resultado encadeado: ", result2)
-
 }
 
 func (ms mySlice) Filter(cond func(num int) bool) mySlice {
