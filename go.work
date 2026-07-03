@@ -19,4 +19,7 @@ use (
 	./4-channels/4.3-direcoes
 	./4-channels/4.4-error-group
 	./4-channels/4.5-fan-out-fan-in
+	./4-channels/4.6-pipeline
+	./4-channels/4.7-select
+	./4-channels/4.8-desafio-agendador-de-tarefas
 )
