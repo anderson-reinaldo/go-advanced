@@ -17,4 +17,6 @@ use (
 	./4-channels/4.1-introducao
 	./4-channels/4.2-channels-com-buffer
 	./4-channels/4.3-direcoes
+	./4-channels/4.4-error-group
+	./4-channels/4.5-fan-out-fan-in
 )
