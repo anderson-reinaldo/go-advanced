@@ -23,4 +23,6 @@ use (
 	./4-channels/4.7-select
 	./4-channels/4.8-desafio-agendador-de-tarefas
 	./4-channels/4.9-desafio-broadcast
+	./5-sinc-advanced/5.1-RWMutex
+	./5-sinc-advanced/5.2-once
 )
