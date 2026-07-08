@@ -26,4 +26,6 @@ use (
 	./5-sinc-advanced/5.1-RWMutex
 	./5-sinc-advanced/5.2-once
 	./5-sinc-advanced/5.3-cond
+	./5-sinc-advanced/5.4-cond-connection-pool
+	./5-sinc-advanced/5.5-cond-broadcast
 )
