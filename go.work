@@ -36,4 +36,6 @@ use (
 	./6-interfaces-e-tipos-dinamicos/6.2-interface-vazia
 	./6-interfaces-e-tipos-dinamicos/6.3-reflect
 	./6-interfaces-e-tipos-dinamicos/6.4-reflect-x-casting
+	./6-interfaces-e-tipos-dinamicos/6.5-generics
+	./6-interfaces-e-tipos-dinamicos/6.6-constraints-numerics
 )
