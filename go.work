@@ -32,4 +32,6 @@ use (
 	./5-sinc-advanced/5.7-pool-comparative
 	./5-sinc-advanced/5.8-atomic
 	./5-sinc-advanced/5.9-atomic-x-mutex-comparative
+	./6-interfaces-e-tipos-dinamicos/6.1-introducao
+	./6-interfaces-e-tipos-dinamicos/6.2-interface-vazia
 )
