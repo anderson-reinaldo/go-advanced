@@ -39,4 +39,6 @@ use (
 	./6-interfaces-e-tipos-dinamicos/6.5-generics
 	./6-interfaces-e-tipos-dinamicos/6.6-constraints-numerics
 	./6-interfaces-e-tipos-dinamicos/6.7-constraints-pre-definidas
+	./6-interfaces-e-tipos-dinamicos/6.8-exercicio-busca
+	./6-interfaces-e-tipos-dinamicos/6.9-cache-com-generics
 )
