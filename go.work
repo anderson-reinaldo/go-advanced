@@ -46,4 +46,6 @@ use (
 	./7.context/7.3-timeout-deadline
 	./7.context/7.4-request-http
 	./7.context/7.5-desafio-graceful-shutdown
+	./7.context/7.6-encadeamento
+	./7.context/7.7-contexto-customizado
 )
