@@ -41,4 +41,9 @@ use (
 	./6-interfaces-e-tipos-dinamicos/6.7-constraints-pre-definidas
 	./6-interfaces-e-tipos-dinamicos/6.8-exercicio-busca
 	./6-interfaces-e-tipos-dinamicos/6.9-cache-com-generics
+	./7.context/7.1-introducao
+	./7.context/7.2-cancelamento
+	./7.context/7.3-timeout-deadline
+	./7.context/7.4-request-http
+	./7.context/7.5-desafio-graceful-shutdown
 )
