@@ -48,4 +48,14 @@ use (
 	./7.context/7.5-desafio-graceful-shutdown
 	./7.context/7.6-encadeamento
 	./7.context/7.7-contexto-customizado
+	./8-profiling/8.1-CPU
+	./8-profiling/8.10-profile-customizado
+	./8-profiling/8.2-Heap
+	./8-profiling/8.3-Allocs
+	./8-profiling/8.4-goroutines
+	./8-profiling/8.5-threads
+	./8-profiling/8.6-mutex
+	./8-profiling/8.7-block
+	./8-profiling/8.8-traces
+	./8-profiling/8.9-profiles-via-http
 )
