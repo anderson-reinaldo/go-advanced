@@ -7,6 +7,12 @@ use (
 	"./2 - slices-arrays-ponteiros/2.4-ponteiros"
 	"./2 - slices-arrays-ponteiros/2.5-deep-copy-com-ponteiros"
 	"./2 - slices-arrays-ponteiros/2.6-map-filter-reduce"
+	"./9 - testes-automatizados/9.1 -introducao"
+	"./9 - testes-automatizados/9.2 -testify"
+	"./9 - testes-automatizados/9.3 -mocks"
+	"./9 - testes-automatizados/9.4 -contextos"
+	"./9 - testes-automatizados/9.5 -fuzz-e-quick"
+	"./9 - testes-automatizados/9.6 -benchmarking"
 	./1-hello-word
 	./3-maps/3.1-introducao
 	./3-maps/3.2-race-condition
